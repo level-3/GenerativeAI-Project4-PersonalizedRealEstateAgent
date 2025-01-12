@@ -1,0 +1,17 @@
+# Existing Repository Requirements
+langchain
+langgraph
+openai
+pydantic
+sentence-transformers
+transformers
+chromadb
+jupyter
+tiktoken
+python-dotenv
+langchain-openai
+gradio
+langchain_community
+lancedb
+langgraph-cli
+streamlit
